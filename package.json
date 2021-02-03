@@ -1,0 +1,29 @@
+{
+  "name": "Node-Express-Cloud",
+  "version": "1.0.0",
+  "description": "Test Deploy Node to Cloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benzkittisak/Node-Express-Cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benzkittisak/Node-Express-Cloud/issues"
+  },
+  "homepage": "https://github.com/benzkittisak/Node-Express-Cloud#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pettier": "^1.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
