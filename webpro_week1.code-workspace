@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Applications/XAMPP/xamppfiles/htdocs/week1"
+		},
+		{
+			"path": "../../../Applications/XAMPP/xamppfiles/htdocs/week2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "week1"
+	}
+}
